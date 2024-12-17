@@ -250,7 +250,7 @@ GEM
     responders (3.1.1)
       actionpack (>= 5.2)
       railties (>= 5.2)
-    rexml (3.3.9)
+    rexml (3.4.0)
     rouge (4.1.2)
     rubyzip (2.3.2)
     sass-embedded (1.74.1)
