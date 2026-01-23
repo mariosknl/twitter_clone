@@ -26,7 +26,7 @@ gem 'jbuilder', '~> 2.7'
 # gem 'image_processing', '~> 1.2'
 
 gem 'bulma-rails', '~> 1.0.0'
-gem 'devise', '~> 4.7', '>= 4.7.1'
+gem 'devise', '~> 5.0', '>= 5.0.0'
 gem 'gravatar_image_tag', '~> 1.2'
 gem 'simple_form', '~> 5.0', '>= 5.0.2'
 
